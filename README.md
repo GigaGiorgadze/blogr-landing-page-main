@@ -29,8 +29,6 @@ Users should be able to:
 ### Screenshot
 ### computer screen
 ![](./images/ss.jpeg)
-### mobile screen
-![](./images/Mss.jpeg)
 
 
 ### Links
